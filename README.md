@@ -4,7 +4,7 @@
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>BisonUpPD — Howard Men's Basketball Player Development</title>
+<title>BisonUpPD — Howard Basketball Player Development</title>
 <style>
 :root{--bg:#f2f5f8;--panel:#fff;--text:#0d1b2a;--muted:#5c7080;--line:#dbe3ea;--accent:#003A63;--accent2:#1E5C8C;--green:#159570;--orange:#e79b24;--red:#E51937;--shadow:0 8px 28px rgba(0,40,70,.08)}
 *{box-sizing:border-box} body{margin:0;font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:var(--bg);color:var(--text)}
